@@ -1,7 +1,7 @@
 # TestExercise
 
 About Server:
-Server can be builded and started by 'make run'.
+Server can be built and started by 'make run'.
 Server can be available by http://localhost:8080 in your browser.
 In a case of "get" request server reads the file "index.html"
 Server sends "OK" responce in a case it can read this file during 50 milliseconds.
