@@ -1,5 +1,4 @@
 # TestExercise
-for interview
 
 About Server:
 Server can be builded and started by 'make run'. 
