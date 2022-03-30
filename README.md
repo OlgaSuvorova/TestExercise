@@ -10,5 +10,5 @@ Server sends "Overload" responce in a case of impossibility to read the file dur
 
 About Client:
 Client sends one or more "get" requests to the server http://localhost:8080/. 
-Sending can be performed by using the command in Erlang shell: client:send(IntegerNumber). IntegerNumber - number of requests you need to send.
+Sending can be performed by using the command in Erlang shell: client:send(RequestCount). RequestCount - number of requests you need to send.
 Server responces are displyed on the same Erlang shell.
